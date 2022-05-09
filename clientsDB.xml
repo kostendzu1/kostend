@@ -1,7 +1,0 @@
-<?php header("Access-Control-Allow-Origin: https://kostendzu.github.io/") ?>
-<?xml version="1.0" encoding="utf-8"?>
-<root>
-	<class> Люкс </class>
-	<price> 100$</price>
-	<description> Бла - бла - бла </description>
-</root>
